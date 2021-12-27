@@ -1,0 +1,12 @@
+    <svg viewbox="0 0 80 60" xmlns="http://www.w3.org/2000/svg" version="1.1" width="80" height="60" preserveAspectRatio="none">
+      <polygon points="0,40 40,40 20,60" style="fill:#ff5010;"/>
+      <polygon points="20,60 40,40 60,60" style="fill:#f96630;"/>
+      <polygon points="60,60 40,40 80,40" style="fill:#ff5010;"/>
+
+      <polygon points="0,40 40,40 20,20" style="fill:#87fbed;"/>
+      <polygon points="20,20 40,40 40,0" style="fill:#2af4dc;"/>
+      <polygon points="80,40 40,40 60,20" style="fill:#2af4dc;"/>
+      <polygon points="40,0 40,40 60,20" style="fill:#87fbed;"/>
+
+      <text x="23" y="47" font-size="30" font-weight="600" fill="#3d3d3d" font-family="Proxima-Nova, Arial, sans-serif">pli</text>
+    </svg>
